@@ -6,7 +6,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UDF e estou no iníci
 ✨ Embora o desenvolvimento Front-End seja minha paixão, estou sempre aberto a explorar novas áreas e adquirir diferentes experiências no campo da tecnologia.
 
 
-(https://github.com/Kauareis-code/imags/tree/main)
+<img src="https://exemplo.com/logo.png" alt="Logo da Minha Empresa">
 
 🚀 Meus objetivos:
 Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e crescer profissionalmente. Sou apaixonado por inovação e pela resolução de problemas que agregam valor a uma equipe e à organização.
