@@ -7,7 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UDF e estou no iníci
 
 
 ## Imagem 
-![](https://raw.githubusercontent.com/MateusMaciel340/aluraplay/main/assets/aluraplay.gif)
+![](https://github.com/Kauareis-code/imags/blob/main/Tumblr.gif)
 
 🚀 Meus objetivos:
 Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e crescer profissionalmente. Sou apaixonado por inovação e pela resolução de problemas que agregam valor a uma equipe e à organização.
