@@ -7,7 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UDF e estou no iníci
 
 
 <p align="center">
-  <img src="https://pin.it/6hpV7eUg6" alt="Descrição do GIF" />
+  <img src="https://pin.it/6hpV7eUg6"  />
 </p>
 
 
