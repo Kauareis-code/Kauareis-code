@@ -20,3 +20,4 @@ Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e cresce
 <img loading="lazy" src="https://img.icons8.com/ios-filled/50/6C6ECF/php-logo.png" alt="php-logo" width="40" height="40"/> 
 </p>
 
+> Citação ou bloco de texto destacado
