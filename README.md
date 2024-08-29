@@ -15,3 +15,8 @@ Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e cresce
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://img.icons8.com/ios-filled/50/6C6ECF/php-logo.png" alt="php-logo" width="40" height="40"/> 
 </p>
+
+<p style="display: flex; align-items: center; gap: 20px;">
+    <img src="icone.png" alt="Icone" style="width: 20px; height: 20px;">
+    Este é um exemplo de parágrafo com ícone e espaçamento grande
+</p>
