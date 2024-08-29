@@ -6,7 +6,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UDF e estou no iníci
 ✨ Embora o desenvolvimento Front-End seja minha paixão, estou sempre aberto a explorar novas áreas e adquirir diferentes experiências no campo da tecnologia.
 
 
-![Descrição do GIF](https://pin.it/6hpV7eUg6)
+<p align="center">
+  <img src="https://pin.it/6hpV7eUg6" alt="Descrição do GIF" />
+</p>
 
 
 🚀 Meus objetivos:
