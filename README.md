@@ -10,9 +10,9 @@ Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e cresce
 
 ### 🌱 Habilidades em desenvolvimento:
 <p style="display: flex; align-items: center;gap: 50px;">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="40" height="40"/> &nbsp;&nbsp
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"  width="40" height="40"/> &nbsp;&nbsp
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"  width="40" height="40"/> &nbsp;&nbsp;&nbsp
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp
 <img loading="lazy" src="https://img.icons8.com/ios-filled/50/6C6ECF/php-logo.png" alt="php-logo" width="40" height="40"/> 
 </p>
 
