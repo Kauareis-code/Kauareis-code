@@ -6,7 +6,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UDF e estou no iníci
 ✨ Embora o desenvolvimento Front-End seja minha paixão, estou sempre aberto a explorar novas áreas e adquirir diferentes experiências no campo da tecnologia.
 
 
-<img src="https://exemplo.com/logo.png" alt="Logo da Minha Empresa">
+## Imagem 
+![](https://raw.githubusercontent.com/MateusMaciel340/aluraplay/main/assets/aluraplay.gif)
 
 🚀 Meus objetivos:
 Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e crescer profissionalmente. Sou apaixonado por inovação e pela resolução de problemas que agregam valor a uma equipe e à organização.
