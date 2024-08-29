@@ -1,17 +1,10 @@
-<p align="center">
+
 # < Olá, me chamo Kauareis-code ! >
-</p>
-
-<p align="center">
 ## ✨ Bem vindo ao meu perfil GitHub ✨
-</p>
-
-<p align="center">
-Sou estudante de Análise e Desenvolvimento de Sistemas na UDF, focado em desenvolvimento Front-End, criando interfaces intuitivas e experiências de usuário envolventes. Comprometido com o aprendizado contínuo, também estou aberto a explorar novas áreas na tecnologia.
-</p>
-
 
 ![](https://github.com/Kauareis-code/imags/blob/main/Tumblr.gif)
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na UDF, focado em desenvolvimento Front-End, criando interfaces intuitivas e experiências de usuário envolventes. Comprometido com o aprendizado contínuo, também estou aberto a explorar novas áreas na tecnologia.
 
 > 🚀 Meus objetivos:
 Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e crescer profissionalmente. Sou apaixonado por inovação e pela resolução de problemas que agregam valor a uma equipe e à organização.
