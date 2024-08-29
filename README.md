@@ -9,7 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UDF e estou no iníci
 Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e crescer profissionalmente. Sou apaixonado por inovação e pela resolução de problemas que agregam valor a uma equipe e à organização.
 
 ### 🌱 Habilidades em desenvolvimento:
-<p style="display: flex; align-items: center;gap: 20px;">
+<p style="display: flex; align-items: center;gap: 50px;">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"  width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
