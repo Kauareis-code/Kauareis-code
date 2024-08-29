@@ -7,7 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UDF e estou no iníci
 
 
 <p align="center">
-  <img src="https://pin.it/6hpV7eUg6"  />
+  <img src="https://pin.it/1kiJMRTCZ"  />
 </p>
 
 
