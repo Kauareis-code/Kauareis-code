@@ -1,6 +1,8 @@
+<div align="center">
+  
+# ✨ Bem vindo ao meu perfil GitHub ✨
 
-## ✨ Bem vindo ao meu perfil GitHub ✨
-
+</div>
 
 <p align="center">
 <img src="https://github.com/Kauareis-code/imags/blob/main/Tumblr.gif" alt="Descrição da imagem" width="750" height="240">
@@ -8,10 +10,13 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na UDF, focado em desenvolvimento Front-End, criando interfaces intuitivas e experiências de usuário envolventes. Comprometido com o aprendizado contínuo, também estou aberto a explorar novas áreas na tecnologia.
 
-
+<br>
 
 > 🚀 Meus objetivos:
 Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e crescer profissionalmente. Sou apaixonado por inovação e pela resolução de problemas que agregam valor a uma equipe e à organização.
+
+<br>
+<br>
 
 ### 🌱 Tecnologias que já trabalhei:
 <p style="display: flex; align-items: center;gap: 50px;">
