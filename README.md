@@ -1,9 +1,11 @@
 <div align="center">
   
-# ✨ Bem vindo ao meu perfil GitHub ✨
+#  `✨ Bem vindo ao meu perfil GitHub ✨`
 
 </div>
 <br>
+
+
 
 <p align="center">
 <img src="https://github.com/Kauareis-code/imags/blob/main/Tumblr.gif" alt="Descrição da imagem" width="750" height="240">
@@ -13,13 +15,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UDF, focado em desenv
 
 <br>
 
-> 🚀 Meus objetivos:
+> 🔎 Meus objetivos:
 Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e crescer profissionalmente. Sou apaixonado por inovação e pela resolução de problemas que agregam valor a uma equipe e à organização.
 
 <br>
 <br>
 
-### 🌱 Tecnologias que já trabalhei:
+### 👨🏾‍💻 Tecnologias que já trabalhei:
 <p style="display: flex; align-items: center;gap: 50px;">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"  width="40" height="40"/> &nbsp;&nbsp;&nbsp
