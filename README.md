@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://github.com/Kauareis-code/imags/blob/main/Tumblr.gif" alt="Descrição da imagem" width="670" height="240">
+<img src="https://github.com/Kauareis-code/imags/blob/main/Tumblr.gif" alt="Descrição da imagem" width="700" height="240">
 </p>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na UDF, focado em desenvolvimento Front-End, criando interfaces intuitivas e experiências de usuário envolventes. Comprometido com o aprendizado contínuo, também estou aberto a explorar novas áreas na tecnologia.
