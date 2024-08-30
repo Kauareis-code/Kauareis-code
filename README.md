@@ -25,21 +25,16 @@ Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e cresce
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"  width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 <br>
-
+ 
 ### 📫 Contatos:
-
-<div>
-<a href="https://www.linkedin.com/in/kau%C3%A3-d-456877238/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/kau%C3%A3-d-456877238/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp;
 <a href = "mailto:kauareisgarcia0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <br>
 <br>
-<br>
 
 <a href="https://github.com/Kauareis-code/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=Kauareis-code&theme=transparent" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Kauareis-code/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauareis-code&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kauareis-code&theme=transparent" />
 </a>
