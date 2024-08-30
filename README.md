@@ -3,6 +3,7 @@
 # ✨ Bem vindo ao meu perfil GitHub ✨
 
 </div>
+<br>
 
 <p align="center">
 <img src="https://github.com/Kauareis-code/imags/blob/main/Tumblr.gif" alt="Descrição da imagem" width="750" height="240">
