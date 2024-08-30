@@ -7,7 +7,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na UDF, focado em desenvolvimento Front-End, criando interfaces intuitivas e experiências de usuário envolventes. Comprometido com o aprendizado contínuo, também estou aberto a explorar novas áreas na tecnologia.
 <p align="center">
-  <img src="https://github.com/Kauareis-code/imags/blob/main/Tumblr.gif" alt="Descrição da Imagem">
+  <img src="https://github.com/Kauareis-code/imags/blob/main/Tumblr.gif" alt="Descrição da Imagem" width="300">
 </p>
 
 > 🚀 Meus objetivos:
