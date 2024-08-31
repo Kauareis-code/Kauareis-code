@@ -9,24 +9,45 @@
 
 <br>
 
-> 🔎 **Meus objetivos:**<br>
+> 🧋 **Meus objetivos:**<br>
 Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e crescer profissionalmente. Sou apaixonado por inovação e pela resolução de problemas que agregam valor a uma equipe e à organização.
   </div>
 <br>
 
 <div>
-  <a href="https://github.com/Kauareis-code">
-    <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauareis-code&layout=compact&langs_count=7&theme=swift"/>
-    <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=Kauareis-code&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  </a>
+    <a href="https://github.com/Kauareis-code">
+<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=Kauareis-code&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;&nbsp;
+<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauareis-code&layout=compact&langs_count=7&theme=date_night"/>
+    </a>
 </div>
 
+<br>
+<br>
 
-### 📫 Estou estudando:
-<a href="https://www.linkedin.com/in/kau%C3%A3-d-456877238/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp;
-<a href = "mailto:kauareisgarcia0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### ☕ Trabalho com:
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;&nbsp;&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 
-### 📫 Contatos:
-<a href="https://www.linkedin.com/in/kau%C3%A3-d-456877238/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp;
-<a href = "mailto:kauareisgarcia0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br> 
+
+### ☕ Estou estudando:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  &nbsp;&nbsp;&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+
+<br> 
+
+### ✉️ Contatos:
+
+<a href="https://www.linkedin.com/in/kau%C3%A3-d-456877238/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:kauareisgarcia0@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Kauareis-code" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+</a>
+
