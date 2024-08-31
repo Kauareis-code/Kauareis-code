@@ -1,8 +1,5 @@
-<div align="center">
-  
-# // Boas-vindas ao meu perfil GitHub!
-
-</div>
+<h1 align="center"> // Bem-vindos ao meu Github ! </h1> 
+<img src="https://github.com/Kauareis-code/imags/blob/main/Ol%C3%A1%2C%20me%20chamo%20Kau%C3%A3.%20Muito%20prazer..png" alt="Olá, me chamo Kauã. Muito prazer" width="900" height="200">
 
 <br>
 
@@ -15,30 +12,21 @@
 > 🔎 **Meus objetivos:**<br>
 Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e crescer profissionalmente. Sou apaixonado por inovação e pela resolução de problemas que agregam valor a uma equipe e à organização.
   </div>
-  
-  <img src="https://github.com/Kauareis-code/imags/blob/main/Design%20sem%20nome%20(1).gif" alt="Descrição da imagem" width="250" style="margin-left: 10px;">
+<br>
+
+<div>
+  <a href="https://github.com/Kauareis-code">
+    <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauareis-code&layout=compact&langs_count=7&theme=swift"/>
+    <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=Kauareis-code&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
-<br>
 
-
-### 💻 Ferramentas que utilizo:
-<p style="display: flex; align-items: center;gap: 50px;">
-<img loading="lazy" src="https://img.icons8.com/ios-filled/50/6C6ECF/php-logo.png" alt="php-logo" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"  width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
- 
-### 📫 Contatos:
+### 📫 Estou estudando:
 <a href="https://www.linkedin.com/in/kau%C3%A3-d-456877238/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp;
 <a href = "mailto:kauareisgarcia0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<br>
-<br>
 
-<a href="https://github.com/Kauareis-code/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kauareis-code&theme=transparent" />
-</a>
+### 📫 Contatos:
+<a href="https://www.linkedin.com/in/kau%C3%A3-d-456877238/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp;
+<a href = "mailto:kauareisgarcia0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
