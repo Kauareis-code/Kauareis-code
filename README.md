@@ -1,4 +1,7 @@
-<h1 align="center"> // Bem-vindos ao meu Github ! </h1> 
+<div align="center">
+    <h1>// Bem-vindos ao meu Github !</h1>
+</div>
+
 <img src="https://github.com/Kauareis-code/imags/blob/main/Ol%C3%A1%2C%20me%20chamo%20Kau%C3%A3.%20Muito%20prazer..png" alt="Olá, me chamo Kauã. Muito prazer" width="900" height="180">
 
 <br>
@@ -16,10 +19,11 @@ Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e cresce
 
 <div>
     <a href="https://github.com/Kauareis-code">
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=Kauareis-code&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;&nbsp;
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauareis-code&layout=compact&langs_count=7&theme=date_night"/>
+        <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=Kauareis-code&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;&nbsp;
+        <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauareis-code&layout=compact&langs_count=7&theme=graywhite"/>
     </a>
 </div>
+
 
 <br>
 <br>
@@ -34,7 +38,7 @@ Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e cresce
 <br> 
 
 ### ☕ Estou estudando:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  &nbsp;&nbsp;&nbsp;
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) &nbsp;&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 
 <br> 
