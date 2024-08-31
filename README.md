@@ -1,24 +1,26 @@
 <div align="center">
   
-#  // Boas-vindas ao meu perfil GitHub !
+# // Boas-vindas ao meu perfil GitHub!
 
 </div>
-<br>
-
-<p style="display: flex; align-items: center;">
- Sou estudante de Análise e Desenvolvimento de Sistemas na UDF, focado em desenvolvimento Front-End, criando interfaces intuitivas e experiências de usuário envolventes. Comprometido com o aprendizado contínuo, também estou aberto a explorar novas áreas na tecnologia.
-
-<br> 
-
-   <img src="https://github.com/Kauareis-code/imags/blob/main/Design%20sem%20nome%20(1).gif" alt="Descrição da imagem" width="100" style="margin-right: 10px;">
-</p>
 
 <br>
 
-> 🔎 Meus objetivos:
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>Sou estudante de Análise e Desenvolvimento de Sistemas na UDF, focado em desenvolvimento Front-End, criando interfaces intuitivas e experiências de usuário envolventes. Comprometido com o aprendizado contínuo, também estou aberto a explorar novas áreas na tecnologia.</p>
+
+<br>
+
+> 🔎 **Meus objetivos:**<br>
 Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e crescer profissionalmente. Sou apaixonado por inovação e pela resolução de problemas que agregam valor a uma equipe e à organização.
+  </div>
+  
+  <img src="https://github.com/Kauareis-code/imags/blob/main/Design%20sem%20nome%20(1).gif" alt="Descrição da imagem" width="250" style="margin-left: 10px;">
+</div>
 
 <br>
+
 
 ### 💻 Ferramentas que utilizo:
 <p style="display: flex; align-items: center;gap: 50px;">
