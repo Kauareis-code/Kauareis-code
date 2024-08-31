@@ -7,6 +7,9 @@
 
 <p style="display: flex; align-items: center;">
  Sou estudante de Análise e Desenvolvimento de Sistemas na UDF, focado em desenvolvimento Front-End, criando interfaces intuitivas e experiências de usuário envolventes. Comprometido com o aprendizado contínuo, também estou aberto a explorar novas áreas na tecnologia.
+
+<br> 
+
    <img src="https://github.com/Kauareis-code/imags/blob/main/Design%20sem%20nome%20(1).gif" alt="Descrição da imagem" width="100" style="margin-right: 10px;">
 </p>
 
