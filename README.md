@@ -16,8 +16,8 @@ Busco oportunidades para aplicar meus conhecimentos, enfrentar desafios e cresce
 
 <div>
   <a href="https://github.com/Kauareis-code">
-    <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauareis-code&layout=compact&langs_count=7&theme=swift"/>
-    <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=Kauareis-code&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauareis-code&layout=compact&langs_count=7&theme=swift"/>
+    <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=Kauareis-code&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
