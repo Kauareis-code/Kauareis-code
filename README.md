@@ -2,7 +2,7 @@
     <h1>// Bem-vindos ao meu Github !</h1>
 </div>
 
-<img src="https://github.com/Kauareis-code/imags/blob/main/Ol%C3%A1%2C%20me%20chamo%20Kau%C3%A3.%20Muito%20prazer..png" alt="Olá, me chamo Kauã. Muito prazer" width="900" height="180">
+<img src="https://github.com/Kauareis-code/imags/blob/main/Ol%C3%A1%2C%20me%20chamo%20Kau%C3%A3.%20Muito%20prazer.%20(1).png" alt="Olá, me chamo Kauã. Muito prazer" width="1000" height="200">
 
 <br>
 
